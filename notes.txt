@@ -1,0 +1,15 @@
+The next selector we're going to look at is the class selector. 
+
+CLASS SELECTOR
+
+Select elements with class called 'complete'
+
+.complete {
+    color: green;
+}
+
+Classes are similar to IDs, where we add something to our markup
+so that we can hook into it from CSS. Except that you can add
+a class to different elements, so a class of elements.
+
+    
